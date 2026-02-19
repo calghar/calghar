@@ -17,7 +17,6 @@
 Security Researcher at **Dynatrace** specializing in cloud native security and runtime threat detection.
 
 - 🎯 **Focus Areas:** Vulnerability Analysis, Kubernetes Security, Runtime Detection, AI/ML for Threat Detection
-- 🛠️ **Daily Tools:** `Kubernetes`, `Tetragon`, `Python`, `Go`, `eBPF`
 - 🔬 **Research:** Identity Attacks, IoT Security, Container Security, Exploitation Frameworks
 - 💻 **Current Work:** Building open source security tools, cloud threat detection systems, vulnerability testing frameworks
 - 🌱 **Contributing:** Cilium Tetragon ecosystem, cloud security projects
