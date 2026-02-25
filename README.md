@@ -6,52 +6,80 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farooq--shaikh/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=j2UD2RkAAAAJ&hl=en) [![Blog](https://img.shields.io/badge/Blog-1e3a8a?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.dynatrace.com/news/blog/author/farooq-shaikh/) [![Dynatrace OSS](https://img.shields.io/badge/Dynatrace_OSS-b45309?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dynatrace-oss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farooq--shaikh/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=j2UD2RkAAAAJ&hl=en)
+[![Blog](https://img.shields.io/badge/Blog-1e3a8a?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.dynatrace.com/news/blog/author/farooq-shaikh/)
+[![Dynatrace OSS](https://img.shields.io/badge/Dynatrace_OSS-b45309?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dynatrace-oss)
 
 </div>
 
-<br/>
+---
 
-### 👋 About Me
+### About Me
 
 Security Researcher at **Dynatrace** specializing in cloud native security and runtime threat detection.
 
-- 🎯 **Focus Areas:** Vulnerability Analysis, Kubernetes Security, Runtime Detection, AI/ML for Threat Detection
-- 🔬 **Research:** Identity Attacks, IoT Security, Container Security, Exploitation Frameworks
-- 💻 **Current Work:** Building open source security tools, cloud threat detection systems, vulnerability testing frameworks
-- 🌱 **Contributing:** Cilium Tetragon ecosystem, cloud security projects
+- **Focus Areas:** Vulnerability Analysis, Kubernetes Security, Runtime Detection, AI/ML for Threat Detection
+- **Research:** Identity Attacks, IoT Security, Container Security, Exploitation Frameworks
+- **Current Work:** Building open source security tools, cloud threat detection systems, vulnerability testing frameworks
+- **Contributing:** Cilium Tetragon ecosystem, cloud security projects
 
-<br/>
+---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/calghar/crypto-jack-agent">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=calghar&repo=crypto-jack-agent&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=f59e0b&text_color=c9d1d9" alt="crypto-jack-agent" />
-  </a>
-  <a href="https://github.com/calghar/tetragon-mcp">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=calghar&repo=tetragon-mcp&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=f59e0b&text_color=c9d1d9" alt="tetragon-mcp" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/dynatrace-oss/k8s-exploit-toolkit">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=dynatrace-oss&repo=k8s-exploit-toolkit&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=f59e0b&text_color=c9d1d9" alt="k8s-exploit-toolkit" />
-  </a>
-  <a href="https://github.com/calghar/gh-account-switcher">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=calghar&repo=gh-account-switcher&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=f59e0b&text_color=c9d1d9" alt="gh-account-switcher" />
-  </a>
-</p>
+**[crypto-jack-agent](https://github.com/calghar/crypto-jack-agent)**
 
-<br/>
+Detect CryptoJacking attacks using runtime analysis and behavioral detection techniques.
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24px" alt="Wave"> Latest Blog Posts
+`Python` `Security` `Runtime Detection`
+
+</td>
+<td width="50%" valign="top">
+
+**[tetragon-mcp](https://github.com/calghar/tetragon-mcp)**
+
+MCP server implementation for Tetragon, enabling AI-powered security observability workflows.
+
+`Go` `Tetragon` `MCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[k8s-exploit-toolkit](https://github.com/dynatrace-oss/k8s-exploit-toolkit)** · Dynatrace OSS
+
+Comprehensive security testing framework for Kubernetes environments, designed for educational and defensive security testing.
+
+`Python` `Kubernetes` `Security Testing`
+
+</td>
+<td width="50%" valign="top">
+
+**[gh-account-switcher](https://github.com/calghar/gh-account-switcher)**
+
+Tool for quickly switching between multiple GitHub accounts from the command line.
+
+`Shell` `GitHub CLI` `Developer Tools`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Latest Blog Posts
 
 <table>
 <tr>
 <td width="50%">
 
-**[Container misconfigurations – From theory to exploitation](https://www.dynatrace.com/news/blog/kubernetes-security-essentials-container-misconfigurations-from-theory-to-exploitation/)**
+**[Container misconfigurations -- From theory to exploitation](https://www.dynatrace.com/news/blog/kubernetes-security-essentials-container-misconfigurations-from-theory-to-exploitation/)**
 
 Practical exploration of container vulnerabilities and exploitation techniques
 
@@ -96,25 +124,25 @@ Vulnerability analysis and detection indicators
 
 </div>
 
-<br/>
+---
 
-### 📚 Publications & Patents
+### Publications & Patents
 
 <div align="center">
 
-| 📄 **Key Publications** | 🔐 **Patent Portfolio** |
-|:---|:---|
+| **Key Publications** | **Patent Portfolio** |
+| :--- | :--- |
 | **Machine Learning Model for Classifying Unsolicited IoT Devices** <br/> *14th International Wireless Communications & Mobile Computing Conference (IWCMC), 2018* | **System and Method for Cybersecurity Reconnaissance, Analysis, and Score Generation** <br/> *US Patent 11,297,109 · 11,924,251 · 12,335,317* |
 | **Internet of Malicious Things: Correlating Active and Passive Measurements** <br/> *IEEE Communications Magazine, Vol. 56(9), pp. 170-177, 2018* | **Detecting and Mitigating Golden SAML Attacks Against Federated Services** <br/> *US Patent 11,552,968 · 11,818,150* |
 | **Data-Centric Machine Learning Approach for Early Ransomware Detection and Attribution** <br/> *IEEE/IFIP Network Operations and Management Symposium (NOMS), 2023* | **Cybersecurity Analysis and Protection Using Distributed Systems** <br/> *US Patent 11,968,235 · 12,267,369* |
 
-[![Google Scholar](https://img.shields.io/badge/📖_Full_Publication_List-Google_Scholar-3b82f6?style=for-the-badge)](https://scholar.google.com/citations?user=j2UD2RkAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Full_Publication_List-Google_Scholar-3b82f6?style=for-the-badge)](https://scholar.google.com/citations?user=j2UD2RkAAAAJ&hl=en)
 
 </div>
 
-<br/>
+---
 
-### 🛠️ Technology Stack
+### Technology Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -139,31 +167,18 @@ Vulnerability analysis and detection indicators
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
-<br/>
+---
 
-### 📊 GitHub Statistics
+### GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=calghar&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=f59e0b&text_color=c9d1d9&ring_color=3b82f6&border_color=1e3a8a&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calghar&layout=compact&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8&border_color=1e3a8a&cache_seconds=86400" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=calghar&theme=dark&hide_border=true&background=0d1117&ring=3b82f6&fire=f59e0b&currStreakLabel=3b82f6&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6b7280" alt="GitHub Streak" /></a>
 </p>
-
-<br/>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=calghar&bg_color=0d1117&color=3b82f6&line=b45309&point=f59e0b&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&area_color=1e3a8a" alt="Contribution Activity Graph" />
-
-</div>
-
-<br/>
 
 ---
 
 <p align="center">
-  <b>💬 Open to collaborations on security research and cloud native security projects</b>
+  <b>Open to collaborations on security research and cloud native security projects</b>
 </p>
 
 <p align="center">
