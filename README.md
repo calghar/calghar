@@ -38,24 +38,6 @@ I make security runtime-observable, automatically testable, and AI-augmented.
 
 ---
 
-**PUBLISHED**
-
-**Internet of Malicious Things: Correlating Active and Passive Measurements**
-IEEE Communications Magazine, Vol. 56(9), 2018
-
-**ML Model for Classifying Unsolicited IoT Devices**
-14th Intl Wireless Communications & Mobile Computing Conference, 2018
-
-**Data-Centric ML for Early Ransomware Detection and Attribution**
-IEEE/IFIP Network Operations and Management Symposium, 2023
-
-**SYNGuard: Dynamic SYN Flood Detection in SDNs**
-IET Networks, 2021
-
-8 US patents: cybersecurity reconnaissance, Golden SAML attack detection, distributed security analysis. → [full list](https://scholar.google.com/citations?user=j2UD2RkAAAAJ&hl=en)
-
----
-
 **WRITING**
 
 [Container misconfigurations — from theory to exploitation](https://www.dynatrace.com/news/blog/kubernetes-security-essentials-container-misconfigurations-from-theory-to-exploitation/) · Oct 2025
