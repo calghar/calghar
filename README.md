@@ -13,10 +13,8 @@
                                 /_/                                     
 
   Security Researcher @ Dynatrace
-  Cloud Security · AI-Augmented Defense · Runtime Detection
+  Kubernetes Security · Offensive Testing · Detection Engineering
 ```
-
-I make security runtime-observable, automatically testable, and AI-augmented.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-111827?style=flat-square&logo=linkedin&logoColor=64ffda)](https://www.linkedin.com/in/farooq--shaikh/) [![Scholar](https://img.shields.io/badge/scholar-111827?style=flat-square&logo=google-scholar&logoColor=64ffda)](https://scholar.google.com/citations?user=j2UD2RkAAAAJ&hl=en) [![Blog](https://img.shields.io/badge/blog-111827?style=flat-square&logo=hashnode&logoColor=64ffda)](https://www.dynatrace.com/news/blog/author/farooq-shaikh/) [![Dynatrace OSS](https://img.shields.io/badge/dynatrace--oss-111827?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/dynatrace-oss)
 
@@ -24,17 +22,36 @@ I make security runtime-observable, automatically testable, and AI-augmented.
 
 **SHIPPED**
 
-[Kimera](https://github.com/dynatrace-oss/k8s-exploit-toolkit) — Cloud security posture management. Assess, exploit, remediate, enforce. Uses LLMs to generate remediations from live cluster state. *Dynatrace OSS.*
+*AI-driven offensive security*
 
-[Kalm-Benchmark](https://github.com/dynatrace-oss/Kalm-Benchmark) — 235+ intentionally vulnerable manifests benchmarking 12 security scanners. CCSS scoring and interactive analysis. *Dynatrace OSS.*
+[FORGE](https://github.com/dynatrace-oss/forge) — Five-agent pipeline that builds a vulnerable app from CVE metadata, exploits it in a sandbox, and writes Sigma and Snort rules from the resulting traces. *Dynatrace OSS · ARES 2026.*
 
 [HARIS](https://github.com/calghar/HARIS) — Black-box web security scanner. Orchestrates five tools, cross-correlates findings, uses LLMs for triage and remediation planning.
 
+*Kubernetes & runtime security*
+
+[Kimera](https://github.com/dynatrace-oss/kimera) — K8s misconfiguration exploitation toolkit. Exposes ATT&CK techniques as MCP tools so agents can plan and run multi-step attack chains against live clusters. CLI and MCP server. *Dynatrace OSS.*
+
+[Kalm-Benchmark](https://github.com/dynatrace-oss/Kalm-Benchmark) — 235+ intentionally vulnerable manifests benchmarking 12 security scanners. CCSS scoring and interactive analysis. *Dynatrace OSS.*
+
 [Tetragon MCP](https://github.com/calghar/tetragon-mcp) — MCP server exposing runtime security events to AI assistants. Multi-cluster support, dual-transport.
+
+*Side projects*
+
+[gh-account-switcher](https://github.com/calghar/gh-account-switcher) — Go CLI for switching between multiple GitHub accounts.
 
 [harnessport](https://github.com/calghar/harnessport) — Universal converter between AI coding harness configs. Claude Code ↔ OpenCode ↔ Cursor ↔ Windsurf ↔ Copilot ↔ Codex CLI.
 
 [LinkVault](https://github.com/calghar/LinkVault) — Obsidian plugin that uses AI to categorise web clips into structured knowledge bases.
+
+---
+
+**RESEARCH**
+
+**[FORGE: Multi-Agent Graduated Exploitation and Detection Engineering](https://arxiv.org/abs/2606.03453)**
+AgentCy Workshop @ ARES 2026 · 603 CVEs · 67.8% end-to-end L1+ exploitation at ~$1.50/CVE
+
+Earlier papers and 8 US patents → [Scholar](https://scholar.google.com/citations?user=j2UD2RkAAAAJ&hl=en)
 
 ---
 
