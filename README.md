@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Farooq Shaikh: Senior Security Researcher at Dynatrace. Kubernetes security, offensive testing, detection engineering." width="760">
+<img src="assets/banner.svg" alt="Farooq Shaikh: Senior Security Researcher at Dynatrace. AI-driven vulnerability analysis, AI agent security, Kubernetes security." width="760">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-111827?style=flat-square&logo=linkedin&logoColor=64ffda)](https://www.linkedin.com/in/farooq--shaikh/)
 [![Scholar](https://img.shields.io/badge/scholar-111827?style=flat-square&logo=google-scholar&logoColor=64ffda)](https://scholar.google.com/citations?user=j2UD2RkAAAAJ&hl=en)
@@ -14,7 +14,7 @@
 [![Dynatrace OSS](https://img.shields.io/badge/dynatrace--oss-111827?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/dynatrace-oss)
 [![Dynatrace Research](https://img.shields.io/badge/dynatrace--research-111827?style=flat-square&logo=github&logoColor=64ffda)](https://github.com/dynatrace-research)
 
-*Focus: automated exploitation frameworks, Kubernetes misconfigurations, and anomaly detection.*
+*Focus: AI-driven vulnerability analysis and detection engineering, security of AI agents and MCP, and Kubernetes misconfigurations.*
 
 [Projects](#projects) · [Research](#research) · [Writing](#writing)
 
@@ -22,7 +22,7 @@
 
 ## Projects
 
-### AI-driven offensive security
+### AI-driven vulnerability analysis
 
 | Project | What it does | Context |
 | --- | --- | --- |
